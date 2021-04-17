@@ -1,2 +1,3 @@
 # NorwegianForestProject
-Childhood Fears Game
+Game "Subjective Reality"
+Graduation Project
